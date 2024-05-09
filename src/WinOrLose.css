@@ -1,0 +1,14 @@
+
+.win-text h2 {
+    color: rgb(0, 255, 0);
+  }
+  
+.loss-text h2 {
+    color: rgb(255, 0, 0);
+  }
+
+.suii-image
+{
+  size: 5px;
+}
+  

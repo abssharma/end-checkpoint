@@ -1,0 +1,104 @@
+.above7
+{
+    font-size: 300%;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1/1;
+    background-color: black;
+      
+    margin: 50px;
+    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 1px 3px rgba(245, 234, 234, 0.3);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.above7:hover
+{
+    color: #ff0000;
+}
+
+.lucky7
+{
+    font-size: 300%;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1/1;
+    background-color: black;
+      
+    margin: 50px;
+    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.lucky7:hover
+{
+    color: #00aaff;
+}
+
+.below7
+{
+    font-size: 300%;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1/1;
+    background-color: black;
+      
+    margin: 50px;
+    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.below7:hover
+{
+    color: #1eff00d2;
+}
+
+.above-lucky-below-text
+{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.above7-text
+{
+    color: #ff0000;
+}
+
+.lucky7-text
+{
+    color: #00aaff;
+}
+
+.below7-text
+{
+    color: #1eff00d2;
+}
